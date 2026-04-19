@@ -11,6 +11,7 @@ There is a Windows/Macos software that can control these camera features, but
 This tool provides a very limited set of most useful control by directly sending the corresponding “magic USB packets” to the camera.
 I obtained those packets by capturing the official software's communication; see `USB captures` for details.
 
+Also see [Cyclops](https://github.com/jan-tudos/cyclops).
 
 # Prerequists
 - webcam ;-)
