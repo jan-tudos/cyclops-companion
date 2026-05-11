@@ -1,7 +1,7 @@
 ifeq ($(origin CC), default)
   CC := clang
 endif
-CFLAGS += -Wall -Wextra -O2
+CFLAGS += -std=c23 -Wall -Wextra -pedantic -Werror -O2
 LDLIBS := -lusb-1.0
 
 

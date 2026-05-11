@@ -20,8 +20,8 @@ Also see [Cyclops](https://github.com/jan-tudos/cyclops).
 
 # Setup
 - clone the repo
-- optional: adjust the camera device info (line 30–32)
-- install libusb development files (`apt install libusb-1.0-0-dev` in Debian)
+- optional: adjust the camera device info (line 37–39)
+- install libusb development files (`apt install libusb-1.0-0-dev` in Debian Forky)
 - `make`
 
 # Usage
